@@ -1,0 +1,7 @@
+{
+  "name": "PHP Architect E-Commerce Blueprint",
+  "description": "A comprehensive production-ready e-commerce blueprint with PHP 8 MVC architecture, including source code viewer, SQL schema, and deployment guides.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
